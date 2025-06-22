@@ -20,7 +20,7 @@ python install_edge_tts.py  # 安装高质量语音
 ```
 
 ### 2. 配置API
-在 `config.py` 设置DeepSeek API Key
+在 `key.txt` 设置DeepSeek API Key，或右键填入
 
 ### 3. 启动
 ```bash
